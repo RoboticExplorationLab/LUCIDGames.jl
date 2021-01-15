@@ -1,0 +1,4 @@
+name = "LUCIDGames"
+uuid = "27ae51ff-6198-4964-8cd0-9194a199f8db"
+authors = ["simon-lc <simonlc@stanford.edu>"]
+version = "0.1.0"
